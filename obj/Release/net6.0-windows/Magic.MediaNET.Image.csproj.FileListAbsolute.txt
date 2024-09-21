@@ -1,0 +1,15 @@
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\bin\Release\net6.0-windows\Magic.MediaNET.Image.deps.json
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\bin\Release\net6.0-windows\Magic.MediaNET.Image.dll
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\bin\Release\net6.0-windows\Magic.MediaNET.Image.pdb
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\bin\Release\net6.0-windows\Magic.HelperNET.dll
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\bin\Release\net6.0-windows\Magic.HelperNET.pdb
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.MediaNET.Image.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.MediaNET.Image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.MediaNET.Image.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.MediaNET.Image.AssemblyInfo.cs
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.MediaNET.Image.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.Me.F15CD757.Up2Date
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.MediaNET.Image.dll
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\refint\Magic.MediaNET.Image.dll
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\Magic.MediaNET.Image.pdb
+C:\Users\Dell Latitude 7400\Documents\repos\Magic.MediaNET.Image\obj\Release\net6.0-windows\ref\Magic.MediaNET.Image.dll

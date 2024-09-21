@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sv0RH9Dtegw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell Latitude 7400\\Documents\\repos\\Magic.MediaNET.Image\\Magic.MediaNET.Image.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell Latitude 7400\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dell Latitude 7400\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
